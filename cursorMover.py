@@ -9,14 +9,11 @@ import numpy
 def cursor_mover():
     start = t.time()
     mouse = Controller()
-    i = 0
 
     while True:
-
-        movedirOne = rand.randint(1, 100)
-        movedirTwo = rand.randint(1, 100)
+        movedirOne = rand.randint(-100, 100)
+        movedirTwo = rand.randint(-100, 100)
         mouse.move(movedirOne, movedirTwo)
         t.sleep(2.0 - ((t.time() - start) % 2))
-        i += 1
 
 cursor_mover()

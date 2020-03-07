@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d78ee93-c59d-4fea-89e4-a1914a5898f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cursorMover.py" beforeDir="false" afterPath="$PROJECT_DIR$/cursorMover.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583553050854</updated>
-      <workItem from="1583553054302" duration="3287000" />
+      <workItem from="1583553054302" duration="3978000" />
     </task>
     <servers />
   </component>
@@ -90,22 +89,22 @@
     </state>
     <state x="514" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1583553137550" />
     <state x="4483" y="281" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1583553704644" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1583556530995">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1583557016389">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1583556530995" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1583556530994">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1583557016389" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1583557016389">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1583556530994" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1583556530994">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1583557016389" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1583557016388">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1583556530994" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1583556530995">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1583557016388" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1583557016389">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1583556530995" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.1920.1040@3840.0.1920.1040" timestamp="1583557016389" />
     <state x="281" y="58" key="SettingsEditor" timestamp="1583553195273">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -120,6 +119,6 @@
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/3840.0.1920.1040@0.0.1536.824" timestamp="1583553189520" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ScreenKeeper$cursorMover.coverage" NAME="cursorMover Coverage Results" MODIFIED="1583556530978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ScreenKeeper$cursorMover.coverage" NAME="cursorMover Coverage Results" MODIFIED="1583557016370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -22,10 +22,5 @@ def cursor_mover():
         # Every _ seconds
         t.sleep(2.0 - ((t.time() - start) % 2))
 
-    #if keyb.:
-    #    check = t.time()
-    #    runtime = str(check - start)
-    #    print("You have been running this for " + runtime + " seconds.")
-
-
-cursor_mover()
+if __name__ == '__main__':
+    cursor_mover()
